@@ -1,15 +1,8 @@
 # Shopping Cart App
 
 > A React redux powered shopping cart app.
+> Shopping cart where you can add your products to cart.
 
-
-## Project Images
-
-![Home](./images/home.png)
-
-![Product](./images/product.png)
-
-![Cart](./images/cart.png)
 
 ## How to build
 
